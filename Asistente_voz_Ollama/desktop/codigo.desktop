@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Codigo (Streamlit App)
+Comment=Inicia la aplicación de conversación local
+Exec=bash -c "$HOME/codigo_app/run_app.sh"
+Terminal=false
+Type=Application
+Icon=utilities-terminal
+Categories=Utility;Education;

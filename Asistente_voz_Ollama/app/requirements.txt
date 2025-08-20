@@ -1,0 +1,6 @@
+streamlit>=1.36
+gTTS>=2.5
+pydub>=0.25
+SpeechRecognition>=3.10
+requests>=2.31
+PyAudio>=0.2
